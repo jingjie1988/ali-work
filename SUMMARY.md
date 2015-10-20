@@ -1,0 +1,11 @@
+#SUMMARY
+* [Introduction](README.md)
+* [迷糊第一个月](firstMonth/fresh.md)
+ - [可怜的周报](firstMonth/weekReport.md)
+ - [弱弱的自我介绍](firstMonth/introduce.md)
+ - [总结](firstMonth/In_general.md)
+* [正在进行时的第二个月](SecondMonth/doing.md)
+ - [让人着急的进度](SecondMonth/grouth.md)
+ - [不服输的小意念](SecondMonth/hope.md)
+ - [总结](SecondMonth/In_general.md)
+* [日记录](Study/每日志.md)
